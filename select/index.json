@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "It's Showtime!!",
+  "base_artist": "OBSYDIA",
+  "createdAt": "2025-12-26T14:27:11.637694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's Showtime!",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/01_It's_Showtime!_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Showtime!",
+      "artist": "David Lee Roth",
+      "has_synced": true,
+      "path": "select/02_It's_Showtime!_David_Lee_Roth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Showtime",
+      "artist": "David Lee Roth",
+      "has_synced": true,
+      "path": "select/03_It's_Showtime_David_Lee_Roth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's Showtime",
+      "artist": "David Lee Roth",
+      "has_synced": false,
+      "path": "select/04_It's_Showtime_David_Lee_Roth.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Showtime!",
+      "artist": "Jason Becker",
+      "has_synced": false,
+      "path": "select/05_It's_Showtime!_Jason_Becker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "IT'S SHOWTIME!!",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/06_IT'S_SHOWTIME!!_B'z.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's showtime!!",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/07_It's_showtime!!_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Showtime",
+      "artist": "David Lee Roth",
+      "has_synced": true,
+      "path": "select/08_It's_Showtime_David_Lee_Roth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Showtime!",
+      "artist": "David Lee Roth",
+      "has_synced": true,
+      "path": "select/09_It's_Showtime!_David_Lee_Roth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Showtime!",
+      "artist": "Jason Becker",
+      "has_synced": false,
+      "path": "select/10_It's_Showtime!_Jason_Becker.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's Showtime!!",
+      "artist": "OBSYDIA",
+      "has_synced": false,
+      "path": "select/pl_01_It's_Showtime!!_OBSYDIA.txt"
+    }
+  ]
+}
